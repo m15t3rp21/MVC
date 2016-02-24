@@ -28,3 +28,33 @@ D:\My Codes\Dot Net\TestGit\HalloWorld\bin\System.Web.WebPages.Razor.xml
 D:\My Codes\Dot Net\TestGit\HalloWorld\obj\Debug\HalloWorld.csprojResolveAssemblyReference.cache
 D:\My Codes\Dot Net\TestGit\HalloWorld\obj\Debug\HalloWorld.dll
 D:\My Codes\Dot Net\TestGit\HalloWorld\obj\Debug\HalloWorld.pdb
+D:\mvc\MVC\HalloWorld\bin\HalloWorld.dll
+D:\mvc\MVC\HalloWorld\bin\HalloWorld.pdb
+D:\mvc\MVC\HalloWorld\bin\Antlr3.Runtime.dll
+D:\mvc\MVC\HalloWorld\bin\EntityFramework.dll
+D:\mvc\MVC\HalloWorld\bin\Microsoft.Web.Infrastructure.dll
+D:\mvc\MVC\HalloWorld\bin\Newtonsoft.Json.dll
+D:\mvc\MVC\HalloWorld\bin\System.Net.Http.Formatting.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.Http.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.Http.WebHost.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.Mvc.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.Optimization.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.Providers.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.Razor.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.WebPages.Deployment.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.WebPages.dll
+D:\mvc\MVC\HalloWorld\bin\System.Web.WebPages.Razor.dll
+D:\mvc\MVC\HalloWorld\bin\WebGrease.dll
+D:\mvc\MVC\HalloWorld\bin\EntityFramework.xml
+D:\mvc\MVC\HalloWorld\bin\Newtonsoft.Json.xml
+D:\mvc\MVC\HalloWorld\bin\System.Net.Http.Formatting.xml
+D:\mvc\MVC\HalloWorld\bin\System.Web.Http.xml
+D:\mvc\MVC\HalloWorld\bin\System.Web.Http.WebHost.xml
+D:\mvc\MVC\HalloWorld\bin\System.Web.Mvc.xml
+D:\mvc\MVC\HalloWorld\bin\System.Web.Razor.xml
+D:\mvc\MVC\HalloWorld\bin\System.Web.WebPages.xml
+D:\mvc\MVC\HalloWorld\bin\System.Web.WebPages.Deployment.xml
+D:\mvc\MVC\HalloWorld\bin\System.Web.WebPages.Razor.xml
+D:\mvc\MVC\HalloWorld\obj\Debug\HalloWorld.csprojResolveAssemblyReference.cache
+D:\mvc\MVC\HalloWorld\obj\Debug\HalloWorld.dll
+D:\mvc\MVC\HalloWorld\obj\Debug\HalloWorld.pdb
